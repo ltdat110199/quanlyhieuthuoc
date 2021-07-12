@@ -1,1 +1,1 @@
-Tìm hiểu về công cụ quản lý mã nguồn SVN 
+xây dựng và thiết kế phần mềm quản lý hiệu thuốc
